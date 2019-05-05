@@ -9,3 +9,5 @@
 * mkdir "HR" and "SR"
 * put ground true and super-resolved images in both dir
 * python psnr
+### Notice
+* The name of images in both type should be same
