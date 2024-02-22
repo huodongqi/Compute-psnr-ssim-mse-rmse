@@ -1,8 +1,9 @@
-# psnr-and-ssim
+# Compute the psnr,ssim,mse,rmse of images
 ### Denpendency
 * python 3
 * opencv 3
 * skimage
+* numpy
 
 ### Getting started
 * pip install -U scikit-image
